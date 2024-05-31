@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuwwan
+- 👋 Hi, I’m @nuwan
 - 👀 I enjoy doing coding.
 
 <!---
