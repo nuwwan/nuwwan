@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuwan
-- 👀 I enjoy doing coding.
+- 👀 We gotta start at some moment.
 
 <!---
 nuwwan/nuwwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
